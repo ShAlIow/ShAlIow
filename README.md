@@ -1,5 +1,5 @@
 ### Hi there 👋
-https://count.getloli.com/get/@ShAlIow?theme=moebooru-h
+![](https://count.getloli.com/get/@ShAlIow?theme=moebooru-h)
 
 <!--
 **ShAlIow/ShAlIow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
