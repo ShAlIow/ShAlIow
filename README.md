@@ -1,6 +1,6 @@
 ### Hi there 👋
-![](https://count.getloli.com/get/@ShAlIow?theme=moebooru-h)
 
+You are the![](https://count.getloli.com/get/@ShAlIow?theme=rule34) friend to come here
 <!--
 **ShAlIow/ShAlIow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
