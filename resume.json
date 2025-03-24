@@ -1,0 +1,121 @@
+{
+    "titleNameMap": {
+        "educationList": "教育背景",
+        "workExpList": "工作经历",
+        "projectList": "项目经历",
+        "skillList": "个人技能",
+        "awardList": "更多信息",
+        "workList": "个人作品",
+        "aboutme": "自我介绍"
+    },
+    "avatar": {
+        "src": "https://no.loc.cc/file/AgACAgUAAyEGAASD9QNEAAMgZ-C3BbjhsedeVRtEOx7t2k9Ku2QAAizBMRu7qQABV2fef1vV4WnYAQADAgADdwADNgQ.png",
+        "hidden": false
+    },
+    "profile": {
+        "name": "苏扬",
+        "email": "elvissu@foxmail.com",
+        "mobile": "18746016735",
+        "github": "",
+        "zhihu": "",
+        "workExpYear": "",
+	    "workExpMonth": "20",	
+        "workPlace": "黑龙江绥化",
+        "positionTitle": ""
+    },
+    "educationList": [
+        {
+            "edu_time": [
+                "2015.09.01",
+                "2019.06.25"
+            ],
+            "school": "哈尔滨理工大学",
+            "major": "能源与动力工程",
+            "academic_degree": "本科"
+        }
+    ],
+    "awardList": [
+        {
+            "award_info": "英语 CET4",
+            "award_time": "2016"
+        },	
+        {
+            "award_info": "助理工程师",
+            "award_time": "2020"
+        }
+    ],
+    "workExpList": [
+        {
+            "company_name": "中国能源建设集团华南电力试验研究院",
+            "department_name": "热机技术研究所",
+            "work_time": [
+                "2019.07",
+                "2021.06"
+            ],
+            "work_desc": "热机调试技术员。负责热机设备调试与维护，提升生产效率10%。调试电厂单体设备、分系统及整体系统，优化流程，缩短调试周期15%。协调多部门沟通，制定和整理技术资料，确保项目顺利移交。"
+        },
+        {
+            "company_name": "自媒体探索",
+            "department_name": "独立运营",
+            "work_time": [
+                "2021.07",
+                "2022.06"
+            ],
+            "work_desc": "运营TikTok和YouTube，策划内容并剪辑视频，吸引5000+粉丝。搭建并优化博客网站，提升加载速度30%。"
+        },
+        {
+            "company_name": "手机流量卡销售",
+            "department_name": "副业",
+            "work_time": [
+                "2024.07",
+                ""
+            ],
+            "work_desc": "通过线上线下渠道推广流量卡，增加销售额20%。维护客户关系，提升客户满意度。"
+        },
+        {
+            "company_name": "兼职教师",
+            "department_name": "家教/督学老师",
+            "work_time": [
+                "2022.07",
+                ""
+            ],
+            "work_desc": "设计课程并管理学生学习进度，提升学生成绩平均10分。优化教学方法，增强学生学习兴趣。"
+        }
+    ],
+    "skillList": [
+        {
+            "skill_name": "机械制图",
+            "skill_desc": "熟练使用AutoCAD进行机械设计",
+            "skill_level": 90
+        },
+        {
+            "skill_name": "办公软件",
+            "skill_desc": "熟练使用Office办公软件（Word、Excel、PPT）",
+            "skill_level": 90
+        },        
+		{
+            "skill_name": "英语四级",
+			"skill_desc": "具备良好的英文阅读与沟通能力。",
+            "skill_level": 89
+        }
+    ],
+    "projectList": [
+        {
+            "project_name": "好住APP",
+            "project_role": "产品经理",
+            "project_time": "2022.06 - 2023.06",
+            "project_desc": "面向广大房产租赁出租者和求租者的一款产品。提供一站式的数据化租房决策和租赁管理协同功能，让用户高效获取决策信息，并提升管理效率。",
+            "project_content": "\n 1. 项目从0到1。独立完成产品需求分析、功能设计、原型制作，使用Axure等工具输出产品文档。\n 2. 产品原型的交互体验的打磨。\n 3. 通过用户调研与数据分析，优化产品功能。"
+        }
+    ],
+    "workList": [
+
+    ],
+    "aboutme": {
+        "aboutme_desc": "🌱三人行必有我师，终身学习提升  😈能力项：学习能力、沟通协调能力、执行力 \n    自驱型人格，具备较强的学习能力，曾自学产品经理课程并完成个人项目。\n 有团队合作精神，能够高效沟通与协作，服从领导安排。\n    身心健康，吃苦耐劳，能够适应高强度工作环境。\n    "
+    },
+    "theme": {
+        "color": "#2f5785",
+        "tagColor": "#8bc34a"
+    }
+}
